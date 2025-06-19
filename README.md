@@ -55,8 +55,4 @@ My-portfolio/
 - **SVGs/Icons:** Place your SVGs in the `public/` folder. Reference them in `data/index.ts` using their filename (e.g., `/next.svg`).
 - **Other Sections:** Update testimonials, experience, companies, and social media in the same data file.
 
-## 📝 License
-This project is open source and available under the [MIT License](LICENSE).
 
----
-Feel free to customize and use this portfolio for your own personal site!
